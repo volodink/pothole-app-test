@@ -1,0 +1,7 @@
+kivy[full]==2.2.1
+kivy_examples
+buildozer
+Cython==0.29.33
+virtualenv
+opencv-python~=4.5.0
+ultralytics
